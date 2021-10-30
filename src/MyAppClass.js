@@ -12,7 +12,7 @@ export default class MyAppClass extends Component {
                 <MyApp/>
                 <h3>MyApp is running from MyAppClass</h3>
                 <p>Thank you</p>
-                <button type="submit" >Submit</button>
+                <button type="submit">Submit</button>
                 <br /><br />
                 <textarea></textarea>
             </div>
