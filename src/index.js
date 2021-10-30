@@ -5,7 +5,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 // import './index.css';
 // import App from './App';
-// import MyApp from './MyApp';
 import MyAppClass from './MyAppClass';
 import reportWebVitals from './reportWebVitals';
 

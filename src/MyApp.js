@@ -8,7 +8,6 @@ function MyApp() {
         <div>
             <h1>Welcome to MyApp</h1>
             <h2>MyApp function is running</h2>
-            <p>Thank you</p>
         </div>
         );
 }
