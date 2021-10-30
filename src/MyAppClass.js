@@ -5,7 +5,7 @@ import React, { Component } from 'react';
 import MyApp from './MyApp';
 
 export default class MyAppClass extends Component {
-     render(){
+    render(){
         console.log("MyAppClass");
         return (
             <div>
