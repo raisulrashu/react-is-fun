@@ -8,7 +8,7 @@ export default class MyAppClass extends Component {
         console.log("MyAppClass");
         return (
             <div>
-                <h1>MyAppClass is running</h1>
+                <h1>MyApp is running from MyAppClass</h1>
                 <p>Thank you</p>
             </div>
         );
